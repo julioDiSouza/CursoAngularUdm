@@ -12,6 +12,7 @@ export class CalculadoraComponent implements OnInit {
   constructor(private calculadoraService: CalculadoraService) { }
 
   ngOnInit() {
+    
   }
 
 }
